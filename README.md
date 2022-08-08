@@ -1,9 +1,14 @@
 ## Hello! I'm Adrien 😎
+
 ### My Portfolio Website
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](adriencarrou@gmail.com) 
 > Currently In Progress
 
-![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarrou&count_private=true&show_icons=true&theme=tokyonight)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=acarrou&theme=tokyonight&count_private=true" width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acarrou&theme=tokyonight&count_private=true" width="400"></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acarrou&theme=tokyonight&count_private=true" width="750"></a>
+</p>
 
 ### Hackathons
 [![](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/adrien-carrou?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
