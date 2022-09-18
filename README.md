@@ -1,7 +1,7 @@
 ## Hello! I'm Adrien 😎
 
 ### My Portfolio Website
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](adriencarrou@gmail.com) 
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adriencarrou.com/) 
 > Currently In Progress
 
 <p align='center'>
