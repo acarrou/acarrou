@@ -2,7 +2,7 @@
 
 ### My Portfolio Website
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adriencarrou.com/) 
-> Currently In Progress
+> Personal Website is Currently in Progress
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=acarrou&theme=tokyonight&count_private=true" width="400"></a>
@@ -45,9 +45,8 @@
 </details>
 
 
-
 ### About Me
-- 🔭 I’m currently working on Robotics(Rover, Drone)/Firmware/Software Projects
+- 🔭 I’m currently working on Robotics(Rover, Drone, satellite)/Firmware/Software/Hardware Projects
 - 🌱 I’m currently learning react.js, docker
 - 👯 I’m looking to collaborate on Hackathons and Robotics Projects
 - 🤔 I’m looking for firmware, software and hardware projects
