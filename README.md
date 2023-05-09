@@ -47,9 +47,8 @@
 
 ### About Me
 - 🔭 I’m currently working on Robotics(Rover, Drone, satellite)/Firmware/Software/Hardware Projects
-- 🌱 I’m currently learning react.js, docker
-- 👯 I’m looking to collaborate on Hackathons and Robotics Projects
-- 🤔 I’m looking for firmware, software and hardware projects
+- 🌱 I’m currently learning more about embedded system design and software
+- 👯 I’m looking to collaborate on embedded software projects
 
 📫 How to reach me:  
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriencarrou@gmail.com)
