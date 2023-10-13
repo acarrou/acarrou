@@ -1,14 +1,22 @@
-## Hello! I'm Adrien 😎
+# Hello! I'm Adrien 😎
 
 ### My Portfolio Website
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adriencarrou.com/) 
-> Personal Website is Currently in Progress
-
+> Personal Website is out of date but check it out anyway!
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=acarrou&theme=tokyonight&count_private=true" width="400"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acarrou&theme=tokyonight&count_private=true" width="400"></a>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acarrou&theme=tokyonight&count_private=true" width="750"></a>
 </p>
+
+## Person Projects
+
+### Astraeus-I Avionics Development Board
+<a href="https://astraeus-i.github.io/">
+   <img src="https://user-images.githubusercontent.com/50222631/208964220-da010cc3-fbd8-45c3-83e3-81f75efb28f3.png" alt="Click Me" width="150">
+</a>
+
+Click me!
 
 ### Hackathons
 [![](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/adrien-carrou?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
