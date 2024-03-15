@@ -12,7 +12,7 @@
 ## Person Projects
 
 ### Astraeus-I Avionics Development Board
-<a href="https://astraeus-i.github.io/">
+<a href="https://astraeus-library.github.io/">
    <img src="https://user-images.githubusercontent.com/50222631/208964220-da010cc3-fbd8-45c3-83e3-81f75efb28f3.png" alt="Click Me" width="150">
 </a>
 
